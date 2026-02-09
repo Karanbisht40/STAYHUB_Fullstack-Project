@@ -25,3 +25,5 @@ Authentication: Passport.js <br/>
 Templating : EJS<br/>
 Cloud Storage: Cloudinary<br/>
 Deployment: Render <br/>
+
+link- https://lnkd.in/gJHZZKSK
