@@ -26,4 +26,4 @@ Templating : EJS<br/>
 Cloud Storage: Cloudinary<br/>
 Deployment: Render <br/>
 
-link- https://lnkd.in/gJHZZKSK
+link- https://backend-project-uero.onrender.com/listings
