@@ -16,7 +16,7 @@ Owners can list their homes or rooms with photos, prices, and details, while use
 ⚡ RESTful APIs with structured routes
 
 
-🛠 Tech Stack
+🛠Tech Stack
 
 frontend: HTML,css, javascript, bootstrap, tailwind <br/>
 Backend: Node.js, Express.js <br/>
